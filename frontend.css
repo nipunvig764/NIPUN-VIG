@@ -4,6 +4,10 @@ html {
     background-attachment: fixed;
     background-color: #787575;
 }
+.img-circle {
+    border: 3px solid white;
+    border-radius: 50%;
+}
 body {
     font-family: 'Handlee', cursive;
     font-size: 13pt;
