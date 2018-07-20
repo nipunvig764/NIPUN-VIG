@@ -26,16 +26,20 @@ p {
     padding: 0;
     margin: 0;
 }
-.img-circle {
-    border: 3px solid white;
+.img-circle
+{
     border-radius: 50%;
+    width:700px;
+    height:700px;
+}
 }
 .section {
-    background-color:palegoldenrod;
+    background-color:papayawhip;
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
 }
+
 #header {
     background-image: url("https://www.sololearn.com/Uploads/header.jpg");
     background-size: cover;
